@@ -75,8 +75,8 @@ export default {
  
 <style scoped lang="less">
 .home_container {
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	.el-header {
 		background-color: #373d41;
 		display: flex;
