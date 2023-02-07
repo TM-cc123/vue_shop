@@ -38,3 +38,11 @@ body,
 .bdbottom {
   border-bottom: 1px solid #eee;
 }
+
+.el-cascader {
+  width: 100%;
+}
+
+.el-cascader-menu {
+  max-height: 400px;
+}
